@@ -1,442 +1,561 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║         GitHub Profile README — Rakshitha Sathish               ║
-  ║         Aptitude & Soft Skills Trainer | Placement Specialist   ║
-  ╚══════════════════════════════════════════════════════════════════╝
--->
+<!-- ═══════════════════════════════════════════════════════════════════
+     JASON MILLER · GitHub Profile README
+     Python Full Stack Developer
+     ═══════════════════════════════════════════════════════════════════ -->
 
+<!-- ANIMATED BANNER WAVE -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jason%20Miller&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Python%20Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+</div>
 
-<!-- ══════════════════ HERO SECTION ══════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Rakshitha%20Sathish&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aptitude%20%26%20Soft%20Skills%20Trainer%20%7C%20Placement%20Specialist&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=600&height=60&lines=def+build_scalable_apps()%3A+%F0%9F%90%8D;Full+Stack+Developer+%7C+Python+%26+React;REST+API+Architect+%7C+Cloud+Native;Django+%2B+Flask+%2B+FastAPI+Engineer;PostgreSQL+%7C+MongoDB+%7C+Redis+Pro;Docker+%E2%86%92+AWS+%E2%86%92+CI%2FCD+Pipeline;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Rakshitha+Sathish+%F0%9F%91%8B;Aptitude+%26+Reasoning+Trainer;Soft+Skills+%26+Interview+Coach;Placement+Readiness+Specialist;M.Sc.+Mathematics+%7C+Univ.+of+Mysore" alt="Typing SVG" />
-
-<br/><br/>
-
-<!-- ── Badges Row ── -->
-<img src="https://komarev.com/ghpvc/?username=rakshitha-sathish&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile views"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Actively%20Training-FF6F61?style=flat-square&logo=statuspage&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20To-Training%20Engagements-00C853?style=flat-square&logo=protonmail&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Location-Karnataka%2C%20India-FFB74D?style=flat-square&logo=googlemaps&logoColor=white"/>
-
-<br/><br/>
-
-<!-- ── Contact Buttons ── -->
-<a href="mailto:rakshithasathish99@gmail.com">
-  <img src="https://img.shields.io/badge/Email-rakshithasathish99%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="tel:+919141171666">
-  <img src="https://img.shields.io/badge/WhatsApp-%2B91%209141171666-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-Rakshitha_Sathish-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Here-6C63FF?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
-
+<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jasonmiller&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/jasonmiller?label=Followers&style=for-the-badge&color=0e75b6&labelColor=1a1a2e" alt="Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To%20Work-✅-00C851?style=for-the-badge&labelColor=1a1a2e" alt="Open to Work"/>
 </div>
 
 <br/>
 
 ---
 
-<!-- ══════════════════ ABOUT ME ══════════════════ -->
-
-## 🎯 About Me
-
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" alt="Teaching GIF"/>
-
-> *"Transforming potential into placement success — one student at a time."*
-
-I am a **passionate and results-driven Aptitude & Soft Skills Trainer** with **3+ years of hands-on experience** empowering engineering and management students across **Karnataka and Tamil Nadu** to crack competitive placement drives.
-
-My core strength lies in **demystifying complex quantitative and reasoning problems** through structured, student-friendly methodologies — blending cognitive science with practical test-taking strategies to produce measurable, consistent results.
-
-**What drives me:**
-- 🧠 Simplifying the seemingly complex — making every student believe they *can*
-- 📈 Designing data-backed, company-specific training that moves the needle on selection rates
-- 🤝 Building placement-ready, confident communicators — not just test passers
-- 🔁 Continuously evolving content and pedagogy to match live recruitment patterns
-
-**Quick Highlights:**
-- 🎓 **M.Sc. Mathematics** — University of Mysore (2022)
-- 🏢 Currently at **QSpiders, Mysore** (Sept 2025 – Present)
-- 🏆 Trained **1,500+ students** across **20+ institutions**
-- 📊 Boosted campus selection rates by up to **35%** in Infosys, Wipro & Accenture drives
-- 🧩 Workshop facilitator on **Memory Techniques & Cognitive Productivity**
-
-<br clear="right"/>
-
----
-
-<!-- ══════════════════ COMPETENCY STACK ══════════════════ -->
-
-## ⚙️ Core Competency Stack
-
-### 📊 Aptitude & Reasoning Mastery
-
-<div align="center">
-
-![Quantitative Aptitude](https://img.shields.io/badge/Quantitative%20Aptitude-Expert-6C63FF?style=for-the-badge&logo=wolfram&logoColor=white)
-![Logical Reasoning](https://img.shields.io/badge/Logical%20Reasoning-Expert-6C63FF?style=for-the-badge&logo=thealgorithms&logoColor=white)
-![Data Interpretation](https://img.shields.io/badge/Data%20Interpretation-Advanced-6C63FF?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Verbal Ability](https://img.shields.io/badge/Verbal%20Ability-Proficient-6C63FF?style=for-the-badge&logo=googletranslate&logoColor=white)
-![Number Systems](https://img.shields.io/badge/Number%20Systems-Expert-6C63FF?style=for-the-badge)
-![Time & Work](https://img.shields.io/badge/Time%20%26%20Work-Expert-6C63FF?style=for-the-badge)
-![Probability & Stats](https://img.shields.io/badge/Probability%20%26%20Statistics-Advanced-6C63FF?style=for-the-badge&logo=mathworks&logoColor=white)
-
-</div>
-
----
-
-### 🏢 Company-Specific Training
-
-<div align="center">
-
-![Infosys](https://img.shields.io/badge/Infosys%20InfyTQ%20Pattern-Expert-FF7F50?style=for-the-badge&logo=infosys&logoColor=white)
-![Accenture](https://img.shields.io/badge/Accenture%20Assessment-Expert-FF7F50?style=for-the-badge&logo=accenture&logoColor=white)
-![Wipro](https://img.shields.io/badge/Wipro%20NLTH-Expert-FF7F50?style=for-the-badge&logo=wipro&logoColor=white)
-![TCS](https://img.shields.io/badge/TCS%20NQT%20Pattern-Advanced-FF7F50?style=for-the-badge)
-![Cognizant](https://img.shields.io/badge/Cognizant%20GenC-Advanced-FF7F50?style=for-the-badge)
-
-</div>
-
----
-
-### 🎤 Soft Skills & Communication
-
-<div align="center">
-
-![Interview Coaching](https://img.shields.io/badge/Interview%20Coaching-Expert-00C853?style=for-the-badge&logo=linkedin&logoColor=white)
-![Group Discussion](https://img.shields.io/badge/Group%20Discussion%20Facilitation-Expert-00C853?style=for-the-badge)
-![Communication Training](https://img.shields.io/badge/Communication%20Skills-Advanced-00C853?style=for-the-badge&logo=googlemeet&logoColor=white)
-![Body Language](https://img.shields.io/badge/Body%20Language%20%26%20Confidence-Proficient-00C853?style=for-the-badge)
-![Resume Building](https://img.shields.io/badge/Resume%20%26%20LinkedIn%20Coaching-Advanced-00C853?style=for-the-badge&logo=readthedocs&logoColor=white)
-![Email Etiquette](https://img.shields.io/badge/Professional%20Email%20Etiquette-Proficient-00C853?style=for-the-badge&logo=gmail&logoColor=white)
-
-</div>
-
----
-
-### 🛠️ Training Design & Delivery
-
-<div align="center">
-
-![Curriculum Design](https://img.shields.io/badge/Curriculum%20Design-Advanced-FFB74D?style=for-the-badge&logo=googleclassroom&logoColor=white)
-![Mock Test Creation](https://img.shields.io/badge/Mock%20Test%20Creation-Scalable-FFB74D?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![Online Training](https://img.shields.io/badge/Online%20Facilitation-Advanced-FFB74D?style=for-the-badge&logo=zoom&logoColor=white)
-![Student Mentoring](https://img.shields.io/badge/Student%20Mentoring-Holistic-FFB74D?style=for-the-badge&logo=bookstack&logoColor=white)
-![Memory Techniques](https://img.shields.io/badge/Memory%20%26%20Productivity%20Workshops-Facilitator-FFB74D?style=for-the-badge)
-![Placement Coordination](https://img.shields.io/badge/Placement%20Coordination-Advanced-FFB74D?style=for-the-badge&logo=handshake&logoColor=white)
-
-</div>
-
----
-
-<!-- ══════════════════ EXPERIENCE ══════════════════ -->
-
-## 💼 Professional Experience
-
-<table>
-<tr>
-<td width="120" align="center">
-  <img src="https://img.shields.io/badge/2025-Present-1E88E5?style=for-the-badge" /><br/>
-  <sub><b>Current Role</b></sub>
-</td>
-<td>
-
-### 🚀 Aptitude Trainer — [QSpiders, Mysore](https://www.qspiders.com/)
-`September 2025 – Present` &nbsp; | &nbsp; 📍 Mysore, Karnataka
-
-- Delivering **advanced aptitude and placement readiness programs** for IT aspirants.
-- Conducting **pattern-aligned mock tests** mapped to current recruitment trends of leading IT firms.
-- Designing company-specific session plans to sharpen student performance on live assessment platforms.
-- Mentoring students on **time management, accuracy optimization, and elimination strategies**.
-
-</td>
-</tr>
-
-<tr>
-<td width="120" align="center">
-  <img src="https://img.shields.io/badge/2022-2025-0D47A1?style=for-the-badge" /><br/>
-  <sub><b>3 Years</b></sub>
-</td>
-<td>
-
-### 📚 Aptitude & Soft Skills Trainer — [Genplus Training & Consulting Services Pvt. Ltd](https://www.genplus.in/)
-`September 2022 – July 2025` &nbsp; | &nbsp; 📍 Karnataka & Tamil Nadu
-
-- 🏛️ Delivered training programs across **20+ engineering and management institutions** in South India.
-- 🎯 Conducted **company-specific sessions** for Infosys, Accenture, and Wipro — achieving a **35% uplift** in campus selection rates.
-- 👩‍🎓 Trained **1,500+ students**, equipping them with structured test-taking strategies, speed-accuracy balance, and logical thinking frameworks.
-- 📝 Developed **customized, reusable training modules and mock test suites** now adopted long-term by multiple institutions.
-- 🎤 Delivered **soft skills & interview readiness programs** covering communication, GD facilitation, resume writing, and mock interviews.
-- 🧠 Facilitated **15+ workshops on memory techniques and cognitive productivity** benefiting 800+ students.
-- 🤝 Collaborated closely with **placement officers and TPOs** to align training outcomes with institutional placement goals.
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ══════════════════ KEY ACHIEVEMENTS ══════════════════ -->
-
-## 🏆 Key Achievements & Impact
-
-<div align="center">
-
-| Metric | Achievement |
-|:---|:---|
-| 🎓 **Students Trained** | 1,500+ students across South India |
-| 🏛️ **Institutions Covered** | 20+ engineering & management colleges |
-| 📈 **Placement Rate Improvement** | Up to 35% increase in selection rates |
-| 🧠 **Workshops Conducted** | 15+ memory & productivity workshops |
-| 👥 **Workshop Beneficiaries** | 800+ students from cognitive productivity sessions |
-| 🏢 **Companies Prepared For** | Infosys, Wipro, Accenture, TCS, Cognizant |
-| ⭐ **Client Feedback** | 93%+ positive feedback on training programs |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Placement Impact](https://img.shields.io/badge/Placement%20Rate%20Boost-35%25-4CAF50?style=flat-square&logo=trendmicro&logoColor=white)
-&nbsp;
-![Students Trained](https://img.shields.io/badge/Students%20Trained-1500%2B-2196F3?style=flat-square&logo=graduationcap&logoColor=white)
-&nbsp;
-![Institutions](https://img.shields.io/badge/Institutions%20Covered-20%2B-9C27B0?style=flat-square&logo=universityofwashington&logoColor=white)
-&nbsp;
-![Feedback](https://img.shields.io/badge/Positive%20Feedback-93%25-FF6F61?style=flat-square&logo=trustpilot&logoColor=white)
-
-</div>
-
----
-
-<!-- ══════════════════ FEATURED INITIATIVES ══════════════════ -->
-
-## 📌 Featured Projects & Initiatives
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧪 Company-Specific Mock Test Suite
-**Impact:** Boosted selection ratios by **35%**
-
-Developed a comprehensive bank of **500+ pattern-based aptitude questions** precisely aligned to Infosys InfyTQ, Accenture, and Wipro NLTH formats. The suite covers speed-math, pseudo-code reasoning, logical puzzles, and situational judgment tests — giving students authentic exam simulation before the real drive.
-
-`Mock Test Design` `Pattern Analysis` `Question Banking` `IT Recruitment`
-
-</td>
-<td width="50%">
-
-### 🧠 Memory & Productivity Workshop Series
-**Impact:** Benefited **800+ students** across 15+ sessions
-
-A structured workshop curriculum combining **mnemonic frameworks, Vedic math shortcuts, mind-mapping techniques, and attention-training exercises** to help students absorb aptitude concepts faster and retain them longer — turning preparation anxiety into confident performance.
-
-`Cognitive Techniques` `Vedic Math` `Mind Mapping` `Workshop Facilitation`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎓 Placement Readiness Program (End-to-End)
-**Impact:** 93% positive feedback rate
-
-A holistic, **full-cycle placement preparation curriculum** integrating quantitative aptitude, verbal ability, logical reasoning, group discussion facilitation, mock interviews, and resume coaching — designed to build well-rounded, placement-ready professionals and not just test-takers.
-
-`Curriculum Design` `Soft Skills` `GD & PI Training` `Holistic Mentoring`
-
-</td>
-<td width="50%">
-
-### 📦 Scalable Content Module Library
-**Impact:** Adopted by multiple institutions across South India
-
-Developed a **modular, institution-agnostic training content library** — covering 12+ aptitude chapters, 8+ soft skills modules, and company-specific prep kits — designed for plug-and-play delivery by any trainer, ensuring quality and consistency at scale.
-
-`Instructional Design` `Content Strategy` `Scalable Delivery` `Training Architecture`
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ══════════════════ EDUCATION ══════════════════ -->
-
-## 🎓 Education & Certifications
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/M.Sc.-Mathematics-6C63FF?style=for-the-badge&logo=mathworks&logoColor=white"/><br/><br/>
-  <b>University of Mysore</b><br/>
-  <sub>2020 – 2022</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Certified-Aptitude%20Pedagogy-00B4D8?style=for-the-badge&logo=academia&logoColor=white"/><br/><br/>
-  <b>Advanced Aptitude Instruction</b><br/>
-  <sub>Professional Certification</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Certified-Soft%20Skills%20Facilitator-00B4D8?style=for-the-badge&logo=gravatar&logoColor=white"/><br/><br/>
-  <b>Communication & Soft Skills</b><br/>
-  <sub>Professional Certification</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/NPTEL-Reasoning%20%26%20Analytics-00B4D8?style=for-the-badge&logo=coursera&logoColor=white"/><br/><br/>
-  <b>Reasoning & Problem Solving</b><br/>
-  <sub>NPTEL Course Completion</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- ══════════════════ CURRENT FOCUS ══════════════════ -->
-
-## 🌱 Current Focus & Growth Areas
-
-```text
-🔭  Currently Delivering  →  Advanced Placement Programs at QSpiders, Mysore
-📚  Deepening Expertise   →  Psychometric Assessment Design & Behavioral Interviewing Frameworks
-🛠️  Building             →  A Digital Aptitude Question Repository with Difficulty Indexing
-🤝  Open To Collaborate   →  EdTech Platforms | Corporate Training Partnerships | Guest Faculty Roles
-🎯  2025 Goals            →  Train 500+ additional students | Publish an Aptitude Workbook
-💡  Exploring             →  AI-assisted adaptive learning tools for aptitude coaching
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> &nbsp;About Me
+
+```python
+class JasonMiller:
+    """Python Full Stack Developer · Los Angeles, CA"""
+
+    name        = "Jason Miller"
+    role        = "Python Full Stack Developer"
+    location    = "Los Angeles, CA 90291 🌴"
+    email       = "email@email.com"
+    portfolio   = "https://jasonmiller.dev"
+    open_to     = ["Full-time", "Remote", "Freelance"]
+
+    tech_stack  = {
+        "backend"   : ["Python", "Django", "Flask", "FastAPI", "Node.js"],
+        "frontend"  : ["React.js", "TypeScript", "JavaScript", "Redux", "HTML5", "CSS3"],
+        "databases" : ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
+        "devops"    : ["Docker", "AWS", "GitHub Actions", "Jenkins", "CI/CD"],
+        "testing"   : ["pytest", "unittest", "Jest", "Selenium"],
+        "tools"     : ["Git", "Postman", "VS Code", "Linux", "Webpack"],
+    }
+
+    languages   = ["English 🇺🇸 (Native)", "Spanish 🇪🇸 (Professional)"]
+
+    achievements = {
+        "order_accuracy"      : "100% across 500+ daily operations",
+        "query_optimization"  : "40% faster via PostgreSQL indexing",
+        "reporting_time"      : "60% reduction via WebSocket dashboards",
+        "data_accuracy"       : "97% via Pandas + NumPy pipelines",
+        "cost_savings"        : "12% UPS logistics savings via automation",
+        "waste_reduction"     : "23% storage waste cut via Kanban system",
+    }
+
+    def current_focus(self):
+        return [
+            "🔭  Building Inventory Management System (Django + React + AWS)",
+            "🌱  Learning Kubernetes & advanced cloud-native patterns",
+            "👯  Open to collaborate on Python / Full Stack OSS projects",
+            "⚡  Fun fact: I automated my first task at Amazon before learning CS formally",
+        ]
+
+    def greet(self):
+        print("Thanks for visiting! Let's build something awesome together 🚀")
+
+me = JasonMiller()
+me.greet()
 ```
 
+<br/>
+
 ---
 
-<!-- ══════════════════ GITHUB ANALYTICS ══════════════════ -->
+## 🚀 &nbsp;Tech Stack & Tools
 
-## 📊 GitHub Analytics
-
+### 🐍 Languages
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rakshitha-sathish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=E0E0E0&count_private=true" width="48%" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitha-sathish&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FFB74D&currStreakLabel=6C63FF" width="48%" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitha-sathish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=E0E0E0" width="45%" alt="Top Languages"/>
-&nbsp;
-<img src="https://github-profile-trophy.vercel.app/?username=rakshitha-sathish&theme=darkhub&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" width="45%" alt="GitHub Trophies"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rakshitha-sathish&bg_color=0D1117&color=6C63FF&line=6C63FF&point=E0E0E0&area=true&hide_border=true" width="90%" alt="Activity Graph"/>
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </div>
 
----
-
-<!-- ══════════════════ WHAT I BRING ══════════════════ -->
-
-## 💡 What I Bring to Every Engagement
-
+### ⚙️ Backend Frameworks
 <div align="center">
-
-| 🏆 Strength | 📋 Description |
-|:---|:---|
-| **Pattern Intelligence** | Deep familiarity with live recruitment test formats across top IT firms — I train for what actually appears, not generic textbook problems |
-| **Pedagogical Clarity** | Ability to break down multi-step reasoning and arithmetic problems into repeatable, teachable step-by-step frameworks |
-| **Student Psychology** | Understanding of test anxiety, attention fatigue, and confidence barriers — and how to systematically address them |
-| **Content Architecture** | Skilled at designing modular, scalable training content that can be reused, adapted, and measured for impact |
-| **Outcome Orientation** | Every training program I design is backward-mapped from placement outcomes — measurable goals, not just coverage |
-| **Collaborative Approach** | Works seamlessly with TPOs, placement cells, and institutional leadership to ensure aligned, high-impact delivery |
-
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </div>
 
----
-
-<!-- ══════════════════ COLLABORATION ══════════════════ -->
-
-## 🤝 Open To Collaborate On
-
+### ⚛️ Frontend Frameworks
 <div align="center">
-
-![Guest Lectures](https://img.shields.io/badge/🎤%20Guest%20Lectures-%20Aptitude%20%26%20Soft%20Skills-6C63FF?style=flat-square)
-&nbsp;
-![EdTech](https://img.shields.io/badge/📱%20EdTech%20Platforms-Content%20%26%20Delivery-00B4D8?style=flat-square)
-&nbsp;
-![Corporate Training](https://img.shields.io/badge/🏢%20Corporate%20Training-New%20Hire%20Readiness-FF7F50?style=flat-square)
-&nbsp;
-![Content Development](https://img.shields.io/badge/📝%20Content%20Development-Aptitude%20%26%20Skills-00C853?style=flat-square)
-&nbsp;
-![Placement Consulting](https://img.shields.io/badge/🎯%20Placement%20Consulting-Institutional%20Tie--ups-FFB74D?style=flat-square)
-&nbsp;
-![Workbook Authoring](https://img.shields.io/badge/📖%20Workbook%20Authoring-Aptitude%20Publishing-9C27B0?style=flat-square)
-
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"/>
 </div>
 
----
-
-<!-- ══════════════════ CONNECT ══════════════════ -->
-
-## 📫 Let's Connect
-
+### 🗄️ Databases
 <div align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</div>
 
-<p>I'm always open to <strong>training engagements, institutional tie-ups, content development partnerships, and placement consulting opportunities</strong>. Let's build a smarter, placement-ready generation together.</p>
+### ☁️ Cloud, DevOps & Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</div>
+
+### 🧪 Testing & Methodology
+<div align="center">
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TDD-E34F26?style=for-the-badge&logo=testing-library&logoColor=white"/>
+</div>
+
+### 📊 Data & Analytics
+<div align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</div>
 
 <br/>
 
-<a href="mailto:rakshithasathish99@gmail.com">
-  <img src="https://img.shields.io/badge/Email-rakshithasathish99%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<br/><br/>
-<a href="tel:+919141171666">
-  <img src="https://img.shields.io/badge/Phone%20%2F%20WhatsApp-%2B91%209141171666-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-<br/><br/>
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-6C63FF?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
-
-</div>
-
 ---
 
-<!-- ══════════════════ QUOTE & FOOTER ══════════════════ -->
+## 📊 &nbsp;GitHub Statistics
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Teaching%20is%20not%20about%20answering%20questions%20but%20about%20raising%20possibilities&author=Rakshitha%20Sathish" width="80%"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer&text=Let's%20build%20placement-ready%20futures%20together&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasonmiller&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=7B5EA7&text_color=c9d1d9&ring_color=1A56A0"/>
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmiller&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9&hide=jupyter+notebook"/>
+</div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%20for%20Student%20Success-6C63FF?style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Powered%20by-3%2B%20Years%20of%20Training%20Excellence-FF6F61?style=flat-square"/>
+<!-- STREAK STATS -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasonmiller&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=FF6B6B&currStreakLabel=00C9FF&sideLabels=7B5EA7&dates=8A9BB5&stroke=1A56A0" alt="GitHub Streak Stats"/>
+</div>
+
+<br/>
+
+---
+
+## 🏆 &nbsp;GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jasonmiller&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+---
+
+## 📈 &nbsp;Contribution Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jasonmiller&theme=tokyo-night&bg_color=0D1117&color=00C9FF&line=1A56A0&point=7B5EA7&area=true&hide_border=true&area_color=1A56A020" alt="Contribution Activity Graph" width="100%"/>
+</div>
+
+<br/>
+
+---
+
+## 🐍 &nbsp;Watch the Snake Eat My Contributions!
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jasonmiller/jasonmiller/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jasonmiller/jasonmiller/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/jasonmiller/jasonmiller/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+
+> 💡 **To enable the snake:** In your GitHub Actions workflow, add the [Platane/snk](https://github.com/Platane/snk) action to auto-generate the SVG above on every push.
+
+<br/>
+
+---
+
+## 🚀 &nbsp;Featured Projects
+
+<div align="center">
+
+| 🗂 Project | 💡 Description | 🛠 Stack | ⚡ Impact |
+|:-----------|:--------------|:---------|:---------|
+| [**📦 Inventory Management System**](https://github.com/jasonmiller/inventory-management) | Full-stack web app for real-time inventory tracking & order management for 500+ SKUs | `Python` `Django REST` `React.js` `PostgreSQL` `Docker` `AWS` | **40%** faster queries |
+| [**📊 Supply Chain Dashboard**](https://github.com/jasonmiller/supply-chain-dashboard) | Real-time KPI visualization platform with WebSocket-driven React frontend | `Python` `Flask` `React.js` `MongoDB` `Pandas` `WebSockets` | **60%** less manual reporting |
 
 </div>
+
+<br/>
+
+### 🔖 &nbsp;Project Showcase Cards
+
+<div align="center">
+  <a href="https://github.com/jasonmiller/inventory-management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasonmiller&repo=inventory-management&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=7B5EA7&text_color=c9d1d9" alt="Inventory Management System"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/jasonmiller/supply-chain-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasonmiller&repo=supply-chain-dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=7B5EA7&text_color=c9d1d9" alt="Supply Chain Dashboard"/>
+  </a>
+</div>
+
+<br/>
+
+---
+
+## 💼 &nbsp;Professional Experience Timeline
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                   CAREER TIMELINE                                    ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  🟦 2019 ─────────────────────────────────────────────────────────  ║
+║  │  Laboratory Inventory Assistant                                   ║
+║  │  Dunrea Laboratories · Orlando, FL                                ║
+║  │  • Automated UPS shipping analysis → 12% cost savings            ║
+║  │  • Kanban system implementation → 23% waste reduction            ║
+║  │  • Kaizen, Gemba & 5S continuous improvement events              ║
+║  │                                                                   ║
+║  🟦 2021 ─────────────────────────────────────────────────────────  ║
+║  │  Warehouse Operations Associate                                   ║
+║  │  Amazon · Miami Gardens, FL                                       ║
+║  │  • 100% order accuracy across 500+ daily operations              ║
+║  │  • Self-built Python scripts → inventory reconciliation ≈ 0%err  ║
+║  │  • 98th percentile picking/packing speed maintained              ║
+║  │                                                                   ║
+║  🟦 2022 ─────────────────────────────────────────────────────────  ║
+║  │  Associates Degree — Logistics & Supply Chain                     ║
+║  │  Atlanta Technical College · Atlanta, GA                          ║
+║  │  Graduate Certificate — Warehousing & Supply Chain Mgmt          ║
+║  │  Southern New Hampshire University (SNHU)                         ║
+║  │                                                                   ║
+║  🟩 2022–Present ──────────────────────────────────────────────────  ║
+║  │  Independent Full Stack Developer 🚀                              ║
+║  │  • Building production-grade Python / React.js applications       ║
+║  │  • Inventory Management System (Django + React + AWS + Docker)   ║
+║  │  • Supply Chain Analytics Dashboard (Flask + MongoDB + Pandas)   ║
+║  │  • AWS Cloud Practitioner certification (in progress)            ║
+║  │                                                                   ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+---
+
+## 🎯 &nbsp;Skill Proficiency Dashboard
+
+```
+Python           ████████████████████░░  95%  🐍
+Django / Flask   ███████████████████░░░  90%  ⚙️
+React.js         █████████████████░░░░░  85%  ⚛️
+HTML5 / CSS3     ██████████████████░░░░  88%  🎨
+PostgreSQL        ██████████████████░░░░  88%  🗄️
+MongoDB          ████████████████░░░░░░  80%  🍃
+Docker           █████████████████░░░░░  82%  🐳
+AWS              ██████████████░░░░░░░░  72%  ☁️
+TypeScript       ████████████████░░░░░░  80%  📘
+Node.js / Express████████████████░░░░░░  78%  🟢
+```
+
+<br/>
+
+---
+
+## 🏅 &nbsp;Certifications & Learning
+
+<div align="center">
+
+| Badge | Certification | Provider | Status |
+|:-----:|:-------------|:---------|:------:|
+| 🐍 | Python for Everybody | Coursera · University of Michigan | ✅ Completed |
+| ⚛️ | Meta Front-End Developer Certificate | Coursera · Meta | ✅ Completed |
+| 🌐 | Responsive Web Design & JavaScript Algorithms | freeCodeCamp | ✅ Completed |
+| 🐳 | Docker for Developers | Udemy | ✅ Completed |
+| ☁️ | AWS Certified Cloud Practitioner | Amazon Web Services | 🔄 In Progress |
+
+</div>
+
+<br/>
+
+---
+
+## 📦 &nbsp;Currently Building & Learning
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/🔭_Building-Inventory_MS-00C9FF?style=for-the-badge&labelColor=0D1117"/>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/🌱_Learning-Kubernetes-326CE5?style=for-the-badge&labelColor=0D1117&logo=kubernetes&logoColor=white"/>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/📖_Reading-Clean_Architecture-7B5EA7?style=for-the-badge&labelColor=0D1117"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/☁️_Studying-AWS_SAA-FF9900?style=for-the-badge&labelColor=0D1117&logo=amazon-aws&logoColor=FF9900"/>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/🧪_Practicing-TDD_Patterns-C21325?style=for-the-badge&labelColor=0D1117&logo=jest&logoColor=C21325"/>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/🤝_Open_To-Collaboration-43B02A?style=for-the-badge&labelColor=0D1117"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+---
+
+## 🎮 &nbsp;A Little Fun — Dev Facts & Games
+
+<details>
+<summary>🃏 &nbsp;<b>Click to Reveal a Random Dev Joke</b></summary>
+<br/>
+
+> 💬 **Q:** Why do Python developers prefer dark mode?
+>
+> **A:** Because light attracts bugs! 🐛
+
+---
+
+> 💬 **Q:** How many Django developers does it take to change a light bulb?
+>
+> **A:** None — that's a frontend problem! ⚛️
+
+---
+
+> 💬 **Q:** Why did the database admin leave his wife?
+>
+> **A:** She had one-to-many relationships! 🗄️
+
+</details>
+
+<details>
+<summary>🧠 &nbsp;<b>Click for My Developer Mindset</b></summary>
+<br/>
+
+```python
+# My approach to every problem
+def solve_any_problem(problem):
+    if is_understood(problem):
+        solution = break_into_small_pieces(problem)
+        for piece in solution:
+            write_clean_code(piece)
+            test_thoroughly(piece)
+            document_properly(piece)
+        return deploy_with_confidence(solution)
+    else:
+        research_deeply(problem)
+        ask_community(problem)
+        return solve_any_problem(problem)  # Recursion is beautiful 🔁
+
+# Core beliefs
+MY_VALUES = {
+    "code_quality"  : "Clean code > clever code",
+    "testing"       : "If it's not tested, it's broken",
+    "documentation" : "Future me is also a user",
+    "learning"      : "Every bug is a lesson in disguise",
+    "collaboration" : "Great software is built by great teams",
+}
+```
+
+</details>
+
+<details>
+<summary>🎯 &nbsp;<b>Click for My 2024–2025 Goals</b></summary>
+<br/>
+
+- [x] ✅ Complete Python Full Stack Developer transition
+- [x] ✅ Build and deploy Inventory Management System on AWS
+- [x] ✅ Master Docker containerization
+- [x] ✅ Learn React.js + TypeScript + Redux
+- [ ] 🔄 Earn AWS Certified Cloud Practitioner
+- [ ] 🔄 Contribute to 5+ open source Python projects
+- [ ] 🔄 Learn Kubernetes & microservices orchestration
+- [ ] 🔄 Build a GraphQL API with Django
+- [ ] 🔄 Reach 50 GitHub repositories
+- [ ] 🔄 Launch personal portfolio v2 with blog
+
+</details>
+
+<details>
+<summary>⚡ &nbsp;<b>Fun Facts About Me</b></summary>
+<br/>
+
+- 🐍 I wrote my first Python script to automate inventory reconciliation **before** formally learning computer science
+- 🏭 I applied **Kanban** at Amazon and later built a digital Kanban board as a Python project
+- 📊 The Supply Chain Dashboard was inspired by real inefficiencies I personally experienced in logistics
+- 🌎 Bilingual: English + Spanish — I can debug code in two languages
+- 🏏 Hobbies: Action Cricket, Rugby, Athletics — because I apply the same discipline to sports as to software
+- ☕ My stack outside of work: Espresso → VSCode → `git push` → repeat
+- 🎯 I reduced data errors from ~3% to **near 0%** by scripting — then decided to make software my career
+
+</details>
+
+<br/>
+
+---
+
+## 📊 &nbsp;Weekly Coding Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Python       ████████████████░░░░░   68.4%
+JavaScript   █████░░░░░░░░░░░░░░░░   20.1%
+TypeScript   ██░░░░░░░░░░░░░░░░░░░    6.3%
+HTML / CSS   █░░░░░░░░░░░░░░░░░░░░    3.8%
+SQL / Other  ░░░░░░░░░░░░░░░░░░░░░    1.4%
+```
+<!--END_SECTION:waka-->
+
+> 🔧 **Enable this:** Set up [WakaTime](https://wakatime.com) + the [WakaTime GitHub Action](https://github.com/marketplace/actions/waka-readme) to auto-update your real coding stats here.
+
+<br/>
+
+---
+
+## 📬 &nbsp;Connect With Me
+
+<div align="center">
+  <a href="mailto:email@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/jasonmiller" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/jasonmiller" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://jasonmiller.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1A56A0?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/jasonmiller_dev" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Los%20Angeles%2C%20CA-🌴-FF6B6B?style=flat-square&labelColor=0D1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Remote-✅-00C851?style=flat-square&labelColor=0D1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Response%20Time-< 24hrs-00C9FF?style=flat-square&labelColor=0D1117"/>
+</div>
+
+<br/>
+
+---
+
+## 💬 &nbsp;Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote"/>
+</div>
+
+<br/>
+
+---
+
+## 🤝 &nbsp;Support & Collaboration
+
+<div align="center">
+  <p>If my work helped you or you'd like to collaborate on Python / Full Stack projects:</p>
+  <br/>
+  <a href="https://www.buymeacoffee.com/jasonmiller" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/jasonmiller?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/⭐%20Star%20My%20Repos-100000?style=for-the-badge&logo=github&logoColor=white" alt="Star My Repos"/>
+  </a>
+</div>
+
+<br/>
+
+---
+
+<!-- ANIMATED FOOTER WAVE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+  <sub>
+    ⚡ Built with passion by <b>Jason Miller</b> · Python Full Stack Developer · Los Angeles, CA<br/>
+    <i>def make_readme(): return "as clean as my Python code" 🐍</i>
+  </sub>
+</div>
+
+<!--
+╔══════════════════════════════════════════════════════════════════╗
+║  SETUP CHECKLIST — Run these to activate all dynamic features   ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  1. SNAKE ANIMATION                                              ║
+║     Create .github/workflows/snake.yml:                          ║
+║     - uses: Platane/snk@v3                                       ║
+║       with: { github_user_name: jasonmiller, outputs: ... }     ║
+║                                                                  ║
+║  2. WAKATIME STATS                                               ║
+║     - Install WakaTime VS Code extension                         ║
+║     - Add WAKATIME_API_KEY to repo secrets                       ║
+║     - Add athul/waka-readme action to workflows                  ║
+║                                                                  ║
+║  3. GITHUB STATS CARDS                                           ║
+║     Replace "jasonmiller" with your actual GitHub username       ║
+║     in all stat card URLs above                                  ║
+║                                                                  ║
+║  4. PROFILE REPO                                                 ║
+║     Create a repo named exactly: jasonmiller/jasonmiller         ║
+║     (same as your username) and put this README.md inside        ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+-->
